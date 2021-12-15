@@ -1,0 +1,22 @@
+# VACCINE EXERCISES
+
+```
+5 4 
+AAAAC
+GCTCA
+GAAAA
+GCTAA
+5 2
+GCTTG
+CGTCG
+7 5
+GCTACCT
+AGGCTAC
+CGCCTAG
+AGCTAGC
+TAAGTCC
+0 0
+
+
+(Please, add a white-space (enter))
+```
